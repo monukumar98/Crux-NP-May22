@@ -1,10 +1,18 @@
 package Lec17;
 
+import java.util.Scanner;
+
 public class Cb_Number {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String str = "81615";
+//		Scanner sc = new Scanner(System.in);
+//		int n = sc.nextInt();
+//		String s = sc.next();
+//		
+		
+		
+		String str = "692239";
 		PrintSubString(str);
 
 	}
