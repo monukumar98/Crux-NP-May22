@@ -1,7 +1,7 @@
 package Lec31;
 
 public class Stack {
-	private int[] data;
+	protected int[] data;
 	private int tos;
 
 	public Stack() {
