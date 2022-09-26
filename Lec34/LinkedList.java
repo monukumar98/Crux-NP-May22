@@ -156,6 +156,7 @@ public class LinkedList {
 			this.size--;
 			return kth.data;
 			
+			
 		}
 	}
 
